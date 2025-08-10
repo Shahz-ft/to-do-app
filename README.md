@@ -10,11 +10,10 @@ Add, mark as done, and delete tasks with ease.
 - Responsive and minimal design
 
 ## 📸 Screenshot
-![To-Do App Screenshot](Screenshot 2025-08-10 212834.png)
+![To-Do App Screenshot](to-do-app/Screenshot 2025-08-10 212834.png)
 
-*(Replace `screenshot.png` with your actual file name/path in the repo)*
 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Shahz-ft/todo-app.git
