@@ -17,3 +17,5 @@ Add, mark as done, and delete tasks with ease.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shahz-ft/todo-app.git
+2. Live link: 
+[**Try the to do list App**](https://Shahz-ft.github.io/to-do-app/)
