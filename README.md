@@ -10,7 +10,7 @@ Add, mark as done, and delete tasks with ease.
 - Responsive and minimal design
 
 ## 📸 Screenshot
-![To-Do App Screenshot](to-do-app/Screenshot%202025-08-10%20212834.pngg)
+![To-Do App Screenshot](https://github.com/Shahz-ft/to-do-app/blob/main/Screenshot%202025-08-10%20212834.png)
 
 
 ## 🚀 How to Run
